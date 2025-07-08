@@ -1,6 +1,6 @@
 **FieldLevel, Inc. Privacy Policy**
 
-Last Updated: July 6, 2020
+Last Updated: July 8, 2025
 
 FieldLevel, Inc.("FieldLevel," "we," "us," or "our") is committed to protecting your privacy. In this Privacy Policy ("Privacy Policy"), we describe how we collect, use, and disclose information that we obtain about visitors to our website www.fieldlevel.com (the "Site"), and about users of our services available through our mobile Application (the "App") and our Site (collectively, the "Services").
 
@@ -12,49 +12,49 @@ Because the Services may change and this Privacy Policy may change accordingly, 
 
 The information FieldLevel collects from you depends on how you use our Services. We collect information about you in a number of ways, including when you browse the Services, create an account, create or share content, and message or communicate with others:
 
--   **When You Use the Services**
+- **When You Use the Services**
 
-    -   To create an account as an **athlete**, we need to collect information about you, which may include your name, video/links, profile picture, age/date of birth, gender, hometown (i.e., city, state/province, postal code, and country), email address, phone number, mailing address, affiliated sport, height & weight, high school graduation year, academic information (i.e., GPA, SAT or ACT scores, and Planned Major), honors & achievements, athletic information (i.e., team, position, and handedness/foot, depending on sport), and the name(s) of your **parent(s) or guardian(s)**. You or your coach may also choose to provide additional information for a commitment story to be published on the Services. We may also collect payment information if you subscribe to our paid Services or pay someone else's subscription.
+  - To create an account as an **athlete**, we need to collect information about you, which may include your name, video/links, profile picture, age/date of birth, gender, hometown (i.e., city, state/province, postal code, and country), email address, phone number, mailing address, affiliated sport, height & weight, high school graduation year, academic information (i.e., GPA, SAT or ACT scores, and Planned Major), honors & achievements, athletic information (i.e., team, position, and handedness/foot, depending on sport), and the name(s) of your **parent(s) or guardian(s)**. You or your coach may also choose to provide additional information for a commitment story to be published on the Services. We may also collect payment information if you subscribe to our paid Services or pay someone else's subscription.
 
-    -   To create an account as a **coach or recruiter**, we need to collect information from you, which may include your name, profile picture, hometown (i.e., city, state/province, postal code, and country), email address, phone number, coaching background information (i.e., competition level, sport, school/team name, title, start year, and coaching/employment history).
+  - To create an account as a **coach or recruiter**, we need to collect information from you, which may include your name, profile picture, hometown (i.e., city, state/province, postal code, and country), email address, phone number, coaching background information (i.e., competition level, sport, school/team name, title, start year, and coaching/employment history).
 
--   **When you Message or Communicate with Others through the Services.**
+- **When you Message or Communicate with Others through the Services.**
 
-    -   When you initiate and respond to messages with other users through the messaging function.
+  - When you initiate and respond to messages with other users through the messaging function.
 
-    -   When you talk to us through the chat function.
+  - When you talk to us through the chat function.
 
--   **From Other Sources.** We may receive information from other sources, such as:
+- **From Other Sources.** We may receive information from other sources, such as:
 
-    -   If you are an athlete, we may receive information from your coach, parent or guardian. If your coach invites you to create an account, we receive your name and email address from your coach to send you an invitation. Your parent, guardian or coach can add information to your profile.
+  - If you are an athlete, we may receive information from your coach, parent or guardian. If your coach invites you to create an account, we receive your name and email address from your coach to send you an invitation. Your parent, guardian or coach can add information to your profile.
 
-    -   If you are a parent or guardian, we receive information from your child through their account. If your child creates an account, we receive your name and email address to verify your child's information and list your contact information on your child's account.
+  - If you are a parent or guardian, we receive information from your child through their account. If your child creates an account, we receive your name and email address to verify your child's information and list your contact information on your child's account.
 
-    -   Please note, if you disclose any personal information relating to other people to us or to our service providers in connection with the Services, you represent that you have the authority to do so and permit us to use this information in accordance with this Privacy Policy.
+  - Please note, if you disclose any personal information relating to other people to us or to our service providers in connection with the Services, you represent that you have the authority to do so and permit us to use this information in accordance with this Privacy Policy.
 
-    -   To the extent permitted by applicable law, we may combine this information.
+  - To the extent permitted by applicable law, we may combine this information.
 
--   **Technical Data.** We use cookies, web beacons, local storage objects, pixels and other technologies that operate in the App and on the Site. These technologies may collect your computer's Internet Protocol (IP) address, domain name, internet browser and operating system, the time, date, and length of time you visit our Site or use our Services, mobile device ID, the web pages you view on our Site or App, including the time spent on each page and clicks on each page, referring URL or the webpage that led you to our Site, and other interactions with our Services. You can adjust the permissions within your browser or device operating system. However, if you set your browser to disable certain technologies, such as cookies, some features of the Site may not function properly. Please see the section "Our Use of Cookies and Other Tracking Mechanisms" below for more information.
+- **Technical Data.** We use cookies, web beacons, local storage objects, pixels and other technologies that operate in the App and on the Site. These technologies may collect your computer's Internet Protocol (IP) address, domain name, internet browser and operating system, the time, date, and length of time you visit our Site or use our Services, mobile device ID, the web pages you view on our Site or App, including the time spent on each page and clicks on each page, referring URL or the webpage that led you to our Site, and other interactions with our Services. You can adjust the permissions within your browser or device operating system. However, if you set your browser to disable certain technologies, such as cookies, some features of the Site may not function properly. Please see the section "Our Use of Cookies and Other Tracking Mechanisms" below for more information.
 
 **2. HOW WE USE YOUR INFORMATION**
 
 We use your information, including your personal information, for the following purposes:
 
--   **Providing Support and Services.** Including to provide our Services; to communicate with you about your access to and use of our Services; to respond to your inquiries; to provide troubleshooting, process your payments and provide technical support; and for other user service and support purposes;
+- **Providing Support and Services.** Including to provide our Services; to communicate with you about your access to and use of our Services; to respond to your inquiries; to provide troubleshooting, process your payments and provide technical support; and for other user service and support purposes;
 
--   **Analyzing and Improving Services and Operations.** Including to better understand how users access and use our Services, to evaluate and improve our Services and business operations, and to develop new Services; to conduct surveys and other evaluations (such as user satisfaction surveys); and for other research and analytical purposes;
+- **Analyzing and Improving Services and Operations.** Including to better understand how users access and use our Services, to evaluate and improve our Services and business operations, and to develop new Services; to conduct surveys and other evaluations (such as user satisfaction surveys); and for other research and analytical purposes;
 
--   **Personalizing Content and Experiences.** Including to tailor content we send or display on our Site and App, and in our Services; to offer location customization and personalized help and instructions; and to otherwise personalize your experiences;
+- **Personalizing Content and Experiences.** Including to tailor content we send or display on our Site and App, and in our Services; to offer location customization and personalized help and instructions; and to otherwise personalize your experiences;
 
--   **Advertising, Marketing and Promotional Purposes.** Including to reach you with more relevant ads and to evaluate, measure and improve the effectiveness of our ad campaigns; to send you newsletters, offers or other information we think may interest you; to contact you about our Services or information we think may interest you; and to administer promotions;
+- **Advertising, Marketing and Promotional Purposes.** Including to reach you with more relevant ads and to evaluate, measure and improve the effectiveness of our ad campaigns; to send you newsletters, offers or other information we think may interest you; to contact you about our Services or information we think may interest you; and to administer promotions;
 
--   **Securing and Protecting Our Business.** Including to protect and secure our business operations, assets, Services, network and information and technology resources; to investigate, prevent, detect and take action regarding fraud, unauthorized access, situations involving potential threats to the rights or safety of any person or third party, or other unauthorized activities or misconduct;
+- **Securing and Protecting Our Business.** Including to protect and secure our business operations, assets, Services, network and information and technology resources; to investigate, prevent, detect and take action regarding fraud, unauthorized access, situations involving potential threats to the rights or safety of any person or third party, or other unauthorized activities or misconduct;
 
--   **Defending our Legal Rights.** Including to manage and respond to actual and potential legal disputes and claims and to otherwise establish, defend or protect our rights or interests, including in the context of anticipated or actual litigation with third parties;
+- **Defending our Legal Rights.** Including to manage and respond to actual and potential legal disputes and claims and to otherwise establish, defend or protect our rights or interests, including in the context of anticipated or actual litigation with third parties;
 
--   **Auditing, Reporting, Corporate Governance, and Internal Operations.** Including relating to financial, tax and accounting audits; audits and assessments of our operations, privacy, security and financial controls, risk, and compliance with legal obligations; our general business, accounting, record keeping and legal functions; and related to any actual or contemplated merger, acquisition, asset sale or transfer, financing, bankruptcy or restructuring of all or part of our business; and
+- **Auditing, Reporting, Corporate Governance, and Internal Operations.** Including relating to financial, tax and accounting audits; audits and assessments of our operations, privacy, security and financial controls, risk, and compliance with legal obligations; our general business, accounting, record keeping and legal functions; and related to any actual or contemplated merger, acquisition, asset sale or transfer, financing, bankruptcy or restructuring of all or part of our business; and
 
--   **Complying with Legal Obligations.** Including to comply with the law, our legal obligations and legal process, such warrants, subpoenas, court orders, and regulatory or law enforcement requests.
+- **Complying with Legal Obligations.** Including to comply with the law, our legal obligations and legal process, such warrants, subpoenas, court orders, and regulatory or law enforcement requests.
 
 **3. PUBLICLY-AVAILABLE INFORMATION AND CONTROLLING YOUR ACCOUNT VISIBILITY SETTINGS**
 
@@ -64,17 +64,17 @@ FieldLevel provides all users with detailed privacy settings so you can control 
 
 We may share your information, including personal information, as follows:
 
--   **With our service providers, to facilitate the services they provide to us.** These may include providers of services such a customer service support, payment processing, email delivery, information technology and related infrastructure provision, website hosting, and other services.
+- **With our service providers, to facilitate the services they provide to us.** These may include providers of services such a customer service support, payment processing, email delivery, information technology and related infrastructure provision, website hosting, and other services.
 
 We also disclose information in the following circumstances:
 
--   **Business Transfers.** If (i) we or our affiliates are or may be acquired by, merged with, or invested in by another company, or (ii) if any of our assets are or may be transferred to another company, whether as part of a bankruptcy or insolvency proceeding or otherwise, we may transfer the information we have collected from you to the other company. As part of the business transfer process, we may share certain of your personal information with lenders, auditors, and third party advisors, including attorneys and consultants.
+- **Business Transfers.** If (i) we or our affiliates are or may be acquired by, merged with, or invested in by another company, or (ii) if any of our assets are or may be transferred to another company, whether as part of a bankruptcy or insolvency proceeding or otherwise, we may transfer the information we have collected from you to the other company. As part of the business transfer process, we may share certain of your personal information with lenders, auditors, and third party advisors, including attorneys and consultants.
 
--   **In Response to Legal Process**. We disclose your information to comply with the law, a judicial proceeding, court order, or other legal process, such as in response to a court order or a subpoena.
+- **In Response to Legal Process**. We disclose your information to comply with the law, a judicial proceeding, court order, or other legal process, such as in response to a court order or a subpoena.
 
--   **To Protect Us and Others.** We disclose your information when we believe it is appropriate to do so to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person, violations of our Terms of Service or this Policy, or as evidence in litigation in which we are involved.
+- **To Protect Us and Others.** We disclose your information when we believe it is appropriate to do so to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person, violations of our Terms of Service or this Policy, or as evidence in litigation in which we are involved.
 
--   **Aggregate and De-Identified Information**. We may share aggregate, anonymized, or de-identified information about users with other entities for marketing, advertising, research or similar purposes.
+- **Aggregate and De-Identified Information**. We may share aggregate, anonymized, or de-identified information about users with other entities for marketing, advertising, research or similar purposes.
 
 **5. OUR USE OF COOKIES AND OTHER TRACKING MECHANISMS**
 
@@ -138,4 +138,4 @@ This Privacy Policy is current as of the effective date set forth above. We rese
 
 **13. CONTACT US**
 
-If you have questions about the privacy aspects of our Services or would like to make a complaint, please contact us via at [support@fieldlevel.com](mailto:support@fieldlevel.com), by phone at (888) 908-7124, or by mail at  1700 Aviara Parkway #130994, Carlsbad, CA 92013.
+If you have questions about the privacy aspects of our Services or would like to make a complaint, please contact us via at [support@fieldlevel.com](mailto:support@fieldlevel.com), by phone at (888) 908-7124, or by mail at 1700 Aviara Parkway #130994, Carlsbad, CA 92013.
