@@ -6,7 +6,7 @@ We respect the intellectual property rights of others and encourage You to do th
 
 _Submitting a DMCA infringement notification_
 
-Pursuant to the Digital Millennium Copyright Act ("DMCA") 17 U.S. Code § 512, we have implemented procedures for receiving written notification of claimed copyright infringement and for processing such claims in accordance with such law. If You believe Your copyright or other intellectual property right is being infringed by a user of the Service, please provide written notice to Our Agent for notice of claims of infringement: Attn: FieldLevel DMCA Agent. By Email: [support@fieldlevel.com](mailto:support@fieldlevel.com). By Mail: 990 Highland Dr., Suite 100, Solana Beach, CA 92075, USA.
+Pursuant to the Digital Millennium Copyright Act ("DMCA") 17 U.S. Code § 512, we have implemented procedures for receiving written notification of claimed copyright infringement and for processing such claims in accordance with such law. If You believe Your copyright or other intellectual property right is being infringed by a user of the Service, please provide written notice to Our Agent for notice of claims of infringement: Attn: FieldLevel DMCA Agent. By Email: [support@fieldlevel.com](mailto:support@fieldlevel.com). By Mail: 1700 Aviara Parkway #130994, Carlsbad, CA 92013, USA.
 
 To be sure the matter is handled immediately, Your written notice must:
 
