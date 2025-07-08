@@ -42,4 +42,4 @@ _Termination of Infringers_
 
 We reserve the right, in Our sole discretion, to terminate the account or access of any user of the Service who is the subject of repeated DMCA or other infringement notifications.
 
-© 2020 FieldLevel Inc. All rights reserved.
+© 2025 FieldLevel Inc. All rights reserved.

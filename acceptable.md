@@ -70,4 +70,4 @@ Our reporting may include disclosing appropriate customer information. We also m
 
 If you become aware of any violation of this Policy, you will immediately notify us and provide us with assistance, as requested, to stop or remedy the violation. To report any violation of this Policy, please contact us a [support@fieldlevel.com](mailto:support@fieldlevel.com).
 
-© 2020 FieldLevel Inc. All rights reserved.
+© 2025 FieldLevel Inc. All rights reserved.

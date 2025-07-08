@@ -139,3 +139,5 @@ This Privacy Policy is current as of the effective date set forth above. We rese
 **13. CONTACT US**
 
 If you have questions about the privacy aspects of our Services or would like to make a complaint, please contact us via at [support@fieldlevel.com](mailto:support@fieldlevel.com), by phone at (888) 908-7124, or by mail at 1700 Aviara Parkway #130994, Carlsbad, CA 92013.
+
+© 2025 FieldLevel Inc. All rights reserved.
