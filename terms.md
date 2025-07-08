@@ -1,6 +1,6 @@
 **FieldLevel, Inc. Terms of Use**
 
-Last Updated: July 22, 2020
+Last Updated: July 8, 2025
 
 These terms of use (the "Terms") are a legal contract between **FieldLevel, Inc.** and its affiliates ("FieldLevel", "we" or "us") and "you" (and "your," or "User"). The Terms explain how you are permitted to use the services provided by and through our platform and website(s) located at the URL [www.fieldlevel.com](https://www.fieldlevel.com) as well as all of our associated internet properties (either linked by FieldLevel and/or affiliated companies) and any software that FieldLevel provides to you for download, including in your mobile devices (our "**Mobile App(s)**" or "**App(s)**") (all of these virtual properties and mobile applications, collectively, the "**Site**"). These Terms also govern your use of all the text, data, information, software, graphics, proprietary content and more (all of which we refer to as "**Materials**") that we and/or our affiliates may make available to you, as well as any services we may provide through this Site). Collectively, the Site, the Materials, and the services provided herein are referred to as the "**Service**".
 
@@ -194,29 +194,29 @@ FieldLevel controls and operates the Service from its headquarters in the United
 
 (b) _Additional License Terms for use of the Service in conjunction with the Apple App Store_. With respect to any Mobile App accessed through or downloaded from the Apple App Store (an "App Store Sourced Application"), you will only use the App Stored Sourced Application (i) on an Apple-branded products that runs the iOS (Apple's proprietary operating system), and (ii) as permitted by the "Usage Rules" set forth in the [Apple Terms of Service](https://www.apple.com/legal/internet-services/itunes/us/terms.html). The following applies to any App Store Sourced Application accessed through or downloaded from the Apple App Store:
 
--   You acknowledge and agree that (i) the Terms are concluded between you and FieldLevel only, and not Apple, and (ii) FieldLevel, not Apple, is solely responsible for the App Store Sourced Application and content thereof. Your use of the App Store Sourced Application must comply with the App Store Terms of Service.
+- You acknowledge and agree that (i) the Terms are concluded between you and FieldLevel only, and not Apple, and (ii) FieldLevel, not Apple, is solely responsible for the App Store Sourced Application and content thereof. Your use of the App Store Sourced Application must comply with the App Store Terms of Service.
 
--   You acknowledge that Apple has no obligation whatsoever to furnish any maintenance and support services with respect to the App Store Sourced Application.
+- You acknowledge that Apple has no obligation whatsoever to furnish any maintenance and support services with respect to the App Store Sourced Application.
 
--   In the event of any failure of the App Store Sourced Application to conform to any applicable warranty, you may notify Apple, and Apple will refund the purchase price for the App Store Sourced Application to you and to the maximum extent permitted by applicable law, Apple will have no other warranty obligation whatsoever with respect to the App Store Sourced Application. As between FieldLevel and Apple, any other claims, losses, liabilities, damages, costs or expenses attributable to any failure to conform to any warranty will be the sole responsibility of FieldLevel.
+- In the event of any failure of the App Store Sourced Application to conform to any applicable warranty, you may notify Apple, and Apple will refund the purchase price for the App Store Sourced Application to you and to the maximum extent permitted by applicable law, Apple will have no other warranty obligation whatsoever with respect to the App Store Sourced Application. As between FieldLevel and Apple, any other claims, losses, liabilities, damages, costs or expenses attributable to any failure to conform to any warranty will be the sole responsibility of FieldLevel.
 
--   You and FieldLevel acknowledge that, as between FieldLevel and Apple, Apple is not responsible for addressing any claims you have or any claims of any third party relating to the App Store Sourced Application or your possession and use of the App Store Sourced Application, including, but not limited to: (i) product liability claims; (ii) any claim that the App Store Sourced Application fails to conform to any applicable legal or regulatory requirement; and (iii) claims arising under consumer protection or similar legislation.
+- You and FieldLevel acknowledge that, as between FieldLevel and Apple, Apple is not responsible for addressing any claims you have or any claims of any third party relating to the App Store Sourced Application or your possession and use of the App Store Sourced Application, including, but not limited to: (i) product liability claims; (ii) any claim that the App Store Sourced Application fails to conform to any applicable legal or regulatory requirement; and (iii) claims arising under consumer protection or similar legislation.
 
--   You and FieldLevel acknowledge that, in the event of any third-party claim that the App Store Sourced Application or your possession and use of that App Store Sourced Application infringes that third party's intellectual property rights, as between FieldLevel and Apple, FieldLevel, not Apple, will be solely responsible for the investigation, defense, settlement and discharge of any such intellectual property infringement claim to the extent required by the Terms.
+- You and FieldLevel acknowledge that, in the event of any third-party claim that the App Store Sourced Application or your possession and use of that App Store Sourced Application infringes that third party's intellectual property rights, as between FieldLevel and Apple, FieldLevel, not Apple, will be solely responsible for the investigation, defense, settlement and discharge of any such intellectual property infringement claim to the extent required by the Terms.
 
--   You and FieldLevel acknowledge and agree that Apple, and Apple's subsidiaries, are third-party beneficiaries of the Terms as related to your license of the App Store Sourced Application, and that, upon your acceptance of the terms and conditions of the Terms, Apple will have the right (and will be deemed to have accepted the right) to enforce the Terms as related to your license of the App Store Sourced Application against you as a third-party beneficiary thereof.
+- You and FieldLevel acknowledge and agree that Apple, and Apple's subsidiaries, are third-party beneficiaries of the Terms as related to your license of the App Store Sourced Application, and that, upon your acceptance of the terms and conditions of the Terms, Apple will have the right (and will be deemed to have accepted the right) to enforce the Terms as related to your license of the App Store Sourced Application against you as a third-party beneficiary thereof.
 
--   Without limiting any other terms of the Terms, you must comply with all applicable third-party terms of agreement when using the App Store Sourced Application.
+- Without limiting any other terms of the Terms, you must comply with all applicable third-party terms of agreement when using the App Store Sourced Application.
 
 (c) _Additional License Terms for use of the Service in conjunction with the Android App Store_. The following additional terms and conditions apply with respect to any Mobile App that FieldLevel provides to you designed for use on an Android-powered mobile device (an "Android App"):
 
--   You acknowledge that these Terms are between you and FieldLevel only, and not with Google, Inc. ("Google").
+- You acknowledge that these Terms are between you and FieldLevel only, and not with Google, Inc. ("Google").
 
--   Your use of FieldLevel's Android App must comply with Google's then-current [Google Play Terms of Service](https://play.google.com/intl/en-us_us/about/play-terms/index.html).
+- Your use of FieldLevel's Android App must comply with Google's then-current [Google Play Terms of Service](https://play.google.com/intl/en-us_us/about/play-terms/index.html).
 
--   Google is only a provider of the Android App market where you obtained the Android App. FieldLevel, and not Google, are solely responsible for FieldLevel's Android App and the services and content available thereon. Google has no obligation or liability to you with respect to FieldLevel's Android App or these Terms.
+- Google is only a provider of the Android App market where you obtained the Android App. FieldLevel, and not Google, are solely responsible for FieldLevel's Android App and the services and content available thereon. Google has no obligation or liability to you with respect to FieldLevel's Android App or these Terms.
 
--   You acknowledge and agree that Google is a third-party beneficiary to the Terms as they relate to FieldLevel's Android App.
+- You acknowledge and agree that Google is a third-party beneficiary to the Terms as they relate to FieldLevel's Android App.
 
 **(d) _Geo-Location Terms_** The Service may include and/or make use of certain functionality and services provided by third-parties that allow FieldLevel to include maps, geocoding, places and other content as part of the services (the "Geo-Location Services"). The Geo-Location Services may be provided by Google Inc., in which case your use of the Geo-Location Services will be subject to Google's then current [Terms of Use for Google Maps/Google Earth](https://www.google.com/intl/en_us/help/terms_maps/). By using Google's Geo-Location Services, you are agreeing to be bound by Google's Terms of Use and the current [Google privacy policy](https://policies.google.com/privacy?hl=en).
 
@@ -248,6 +248,6 @@ These Terms together with our [Privacy Policy](https://www.fieldlevel.com/polici
 
 ### **25. CONTACT US.**
 
-If you have any questions about these Terms or otherwise need to contact FieldLevel for any reason, you can reach us at **FieldLevel Inc,**  1700 Aviara Parkway #130994, Carlsbad, CA 92013, USA, with a copy to [support@fieldlevel.com](mailto:support@fieldlevel.com) or call us at +1 (888) 908-7124.
+If you have any questions about these Terms or otherwise need to contact FieldLevel for any reason, you can reach us at **FieldLevel Inc,** 1700 Aviara Parkway #130994, Carlsbad, CA 92013, USA, with a copy to [support@fieldlevel.com](mailto:support@fieldlevel.com) or call us at +1 (888) 908-7124.
 
 © 2020 FieldLevel Inc. All rights reserved.
