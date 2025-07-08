@@ -250,4 +250,4 @@ These Terms together with our [Privacy Policy](https://www.fieldlevel.com/polici
 
 If you have any questions about these Terms or otherwise need to contact FieldLevel for any reason, you can reach us at **FieldLevel Inc,** 1700 Aviara Parkway #130994, Carlsbad, CA 92013, USA, with a copy to [support@fieldlevel.com](mailto:support@fieldlevel.com) or call us at +1 (888) 908-7124.
 
-© 2020 FieldLevel Inc. All rights reserved.
+© 2025 FieldLevel Inc. All rights reserved.
