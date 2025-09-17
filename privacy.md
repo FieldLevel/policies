@@ -1,6 +1,6 @@
-**FieldLevel, Inc. Privacy Policy**
+# **FieldLevel, Inc. Privacy Policy**
 
-Last Updated: July 8, 2025
+Effective Date: July 6, 2020 Last Updated: September 17, 2025
 
 FieldLevel, Inc.("FieldLevel," "we," "us," or "our") is committed to protecting your privacy. In this Privacy Policy ("Privacy Policy"), we describe how we collect, use, and disclose information that we obtain about visitors to our website www.fieldlevel.com (the "Site"), and about users of our services available through our mobile Application (the "App") and our Site (collectively, the "Services").
 
@@ -8,136 +8,204 @@ By visiting the Site, using or downloading the App, or using any of our Services
 
 Because the Services may change and this Privacy Policy may change accordingly, please check back occasionally for updates.
 
-**1. THE INFORMATION WE COLLECT ABOUT YOU**
+BY USING THE SITE OR SERVICES, YOU ARE CONSENTING TO THIS PRIVACY POLICY. PLEASE READ IT CAREFULLY.
 
-The information FieldLevel collects from you depends on how you use our Services. We collect information about you in a number of ways, including when you browse the Services, create an account, create or share content, and message or communicate with others:
+### **Personal Information We Collect**
 
-- **When You Use the Services**
+We collect the following categories and types of "**Personal Information**":
 
-  - To create an account as an **athlete**, we need to collect information about you, which may include your name, video/links, profile picture, age/date of birth, gender, hometown (i.e., city, state/province, postal code, and country), email address, phone number, mailing address, affiliated sport, height & weight, high school graduation year, academic information (i.e., GPA, SAT or ACT scores, and Planned Major), honors & achievements, athletic information (i.e., team, position, and handedness/foot, depending on sport), and the name(s) of your **parent(s) or guardian(s)**. You or your coach may also choose to provide additional information for a commitment story to be published on the Services. We may also collect payment information if you subscribe to our paid Services or pay someone else's subscription.
+**Contact Information**: This includes your first and last name, mailing address, email address, and phone number, parent(s) or guardian(s) name;
 
-  - To create an account as a **coach or recruiter**, we need to collect information from you, which may include your name, profile picture, hometown (i.e., city, state/province, postal code, and country), email address, phone number, coaching background information (i.e., competition level, sport, school/team name, title, start year, and coaching/employment history).
+**Other identifying information**: This includes hometown (city, state/province, postal code, country), affiliated sport, team, school/team name, title, commitments, and social media account information;
 
-- **When you Message or Communicate with Others through the Services.**
+**Demographic Information**: This includes age/date of birth, gender, height and weight, graduation year;
 
-  - When you initiate and respond to messages with other users through the messaging function.
+**Academic information**: This includes GPA, SAT/ACT scores, transcripts, class rank, planned major, honors/achievements, and planned test dates;
 
-  - When you talk to us through the chat function.
+**Account information:** This includes messaging and communications through the platform, IP address, device ID, third-party credentials when you link your account for login; profile and other account information;
 
-- **From Other Sources.** We may receive information from other sources, such as:
+**Financial Information**: This includes credit card, debit card, bank account information, if subscribing or paying for services;
 
-  - If you are an athlete, we may receive information from your coach, parent or guardian. If your coach invites you to create an account, we receive your name and email address from your coach to send you an invitation. Your parent, guardian or coach can add information to your profile.
+**Professional or Employment Information**: This includes employment history, job title, coaching and/or athletic background (competition level, sport, school/team name, title, start year, coaching/employment history, performance metrics past and current team/school/organizations/programs), personal statements;
 
-  - If you are a parent or guardian, we receive information from your child through their account. If your child creates an account, we receive your name and email address to verify your child's information and list your contact information on your child's account.
+**Geolocation data**: This may include precise geolocation if you enable this feature in connection with certain Services;
 
-  - Please note, if you disclose any personal information relating to other people to us or to our service providers in connection with the Services, you represent that you have the authority to do so and permit us to use this information in accordance with this Privacy Policy.
+**Internet or other electronic activity**: This includes your browsing and click history, including information about how you use and navigate within our Site and Services and which elements of our Site and Services you use the most;
 
-  - To the extent permitted by applicable law, we may combine this information.
+**Communication information**: This includes messages initiated and responded to via messaging, communications sent through the chat function;
 
-- **Technical Data.** We use cookies, web beacons, local storage objects, pixels and other technologies that operate in the App and on the Site. These technologies may collect your computer's Internet Protocol (IP) address, domain name, internet browser and operating system, the time, date, and length of time you visit our Site or use our Services, mobile device ID, the web pages you view on our Site or App, including the time spent on each page and clicks on each page, referring URL or the webpage that led you to our Site, and other interactions with our Services. You can adjust the permissions within your browser or device operating system. However, if you set your browser to disable certain technologies, such as cookies, some features of the Site may not function properly. Please see the section "Our Use of Cookies and Other Tracking Mechanisms" below for more information.
+**Audio and visual information**: This includes your photos and videos, profile pic; and
 
-**2. HOW WE USE YOUR INFORMATION**
+**Inferences drawn from the categories described above** in order to create a profile about you to reflect your preferences, characteristics, behavior, and attitude.
 
-We use your information, including your personal information, for the following purposes:
+**NOTE:** Some of the information listed above is considered "Sensitive Personal Information" under applicable State or International Privacy Laws (e.g., financial information).
 
-- **Providing Support and Services.** Including to provide our Services; to communicate with you about your access to and use of our Services; to respond to your inquiries; to provide troubleshooting, process your payments and provide technical support; and for other user service and support purposes;
+### **How We Use Personal Information**
 
-- **Analyzing and Improving Services and Operations.** Including to better understand how users access and use our Services, to evaluate and improve our Services and business operations, and to develop new Services; to conduct surveys and other evaluations (such as user satisfaction surveys); and for other research and analytical purposes;
+We use your Personal Information for the following categories of use:
 
-- **Personalizing Content and Experiences.** Including to tailor content we send or display on our Site and App, and in our Services; to offer location customization and personalized help and instructions; and to otherwise personalize your experiences;
+**Transactional Purposes**: We may use all your information that we receive to process, confirm, send, track, and communicate with you about your account and provide you and other users the features and functionality of the Services; to communicate about access to and use of the Services; to respond to inquiries; to provide troubleshooting and technical support; to process payments. We use your Sensitive Personal Information only with your consent, where necessary to provide you the Services.
 
-- **Advertising, Marketing and Promotional Purposes.** Including to reach you with more relevant ads and to evaluate, measure and improve the effectiveness of our ad campaigns; to send you newsletters, offers or other information we think may interest you; to contact you about our Services or information we think may interest you; and to administer promotions;
+**Analytical Purposes**: We may use all your information to understand how users access and use the Services; to evaluate and improve Services and business operations; to develop new Services; to conduct surveys and user satisfaction evaluations; and for research and analytical purposes.
 
-- **Securing and Protecting Our Business.** Including to protect and secure our business operations, assets, Services, network and information and technology resources; to investigate, prevent, detect and take action regarding fraud, unauthorized access, situations involving potential threats to the rights or safety of any person or third party, or other unauthorized activities or misconduct;
+**Marketing and Promotional Purposes**: We may use all your information to reach users with relevant ads; to measure and improve the effectiveness of ad campaigns; to contact users about products and services or information that may be of interest; to administer promotions
 
-- **Defending our Legal Rights.** Including to manage and respond to actual and potential legal disputes and claims and to otherwise establish, defend or protect our rights or interests, including in the context of anticipated or actual litigation with third parties;
+**Maintenance and Improvement of the Site and Services**: We may use all categories of your information to improve user experiences; to personalize content, including location-based customization and personalized instructions; to maintain business operations, accounting, record-keeping, and governance; handle your customer services requests; and help us diagnose technical and service problems and administer our stores, the Site, and the Services.
 
-- **Auditing, Reporting, Corporate Governance, and Internal Operations.** Including relating to financial, tax and accounting audits; audits and assessments of our operations, privacy, security and financial controls, risk, and compliance with legal obligations; our general business, accounting, record keeping and legal functions; and related to any actual or contemplated merger, acquisition, asset sale or transfer, financing, bankruptcy or restructuring of all or part of our business; and
+**Security and Fraud Prevention**: We may use all your information to protect and secure business operations, assets, network, information, and technology resources; to investigate, prevent, detect, and act regarding fraud or unauthorized access; to address potential threats to safety; to respond to unauthorized activities and misconduct.
 
-- **Complying with Legal Obligations.** Including to comply with the law, our legal obligations and legal process, such warrants, subpoenas, court orders, and regulatory or law enforcement requests.
+**Legal and Compliance Purposes**: We may use all of your information in order to manage and respond to legal disputes and claims; to comply with law, legal obligations, court orders, and regulatory/law enforcement requests; to defend rights in anticipation or actual litigation; for auditing, corporate governance, and restructuring activities.
 
-**3. PUBLICLY-AVAILABLE INFORMATION AND CONTROLLING YOUR ACCOUNT VISIBILITY SETTINGS**
+We do not collect, use, or disclose Sensitive Personal Information, as defined by the applicable State or International Privacy Law, for inferring characteristics or for purposes other than those permitted by law.
 
-FieldLevel provides all users with detailed privacy settings so you can control whether information within your profile is public or private. Information including your name, positions, recruiting class, and teams will be defaulted public. Users have the option to set the rest of your profile, or individual profile elements, to "Public" or "Private" within your Account Visibility Settings. Public profiles are available to other users of FieldLevel's Services and searchable on search engines (e.g., Google). Users who enrolled prior to July 6, 2020 have the option to set their profile to Public (it is not defaulted to public), while Users who have enrolled on or after July 6, 2020 are given a default setting of Public and can set their profile to private if they so choose. Please check your Account Visibility Settings and adjust them to suit your preference, as needed.
+### **Sources of Personal Information**
 
-**4. HOW WE SHARE YOUR INFORMATION**
+We collect Personal Information from the following sources:
 
-We may share your information, including personal information, as follows:
+**We collect information directly from you**. We collect information from you when you create an account (e.g., athlete). We collect information from you when you create or share content. We collect your information when you initiate or respond to messages through the messaging function and when you contact FieldLevel (including via chat function). We collect your information when you provide payment information for subscriptions, when you submit additional info for commitment stories, and when you modify your profile information.
 
-- **With our service providers, to facilitate the services they provide to us.** These may include providers of services such a customer service support, payment processing, email delivery, information technology and related infrastructure provision, website hosting, and other services.
+**We collect information about you from third parties**. We collect your information from Service Providers that collect certain Personal Information from or about you on our behalf, such as analytics software or platforms that we use to measure and analyze traffic to the Site, the Services, or interaction with our advertisements. We collect information from athletes, coaches, parents, or guardians, and other users (e.g., coach invites for athlete account creation; parent/coach adds info to profile); from an athlete's child or parent/guardian account verification. We potentially collect information from other sources authorized by you.
 
-We also disclose information in the following circumstances:
+**We collect information from you passively**. We collect other identifying information, geolocation data, internet or other electronic activity passively through cookies, web beacons, local storage, pixels, and similar technologies. We collect information via the collection of technical data (IP address, domain name, browser info, mobile device ID, time/date/length of visit, pages viewed, clicks, referring URL) and via analytic tools (e.g., Google Analytics). We collect information through automated tracking of interactions with the Site/App.
 
-- **Business Transfers.** If (i) we or our affiliates are or may be acquired by, merged with, or invested in by another company, or (ii) if any of our assets are or may be transferred to another company, whether as part of a bankruptcy or insolvency proceeding or otherwise, we may transfer the information we have collected from you to the other company. As part of the business transfer process, we may share certain of your personal information with lenders, auditors, and third party advisors, including attorneys and consultants.
+### **Categories of Third Parties We Share Personal Information With**
 
-- **In Response to Legal Process**. We disclose your information to comply with the law, a judicial proceeding, court order, or other legal process, such as in response to a court order or a subpoena.
+**Service Providers.** From time to time, we may establish a business relationship with other businesses whom we believe are trustworthy and who have confirmed that their privacy practices are consistent with ours ("**Service Providers**"). For example, we may contract with Service Providers to provide certain services, such as hosting and maintenance, data storage and management, and payment processing. We only provide our Service Providers with the information necessary for them to perform these services on our behalf. Each Service Provider must agree to use reasonable security procedures and practices, appropriate to the nature of the information involved, in order to protect your Personal Information from unauthorized access, use, or disclosure. Service Providers are prohibited from using Personal Information other than as specified by us.
 
-- **To Protect Us and Others.** We disclose your information when we believe it is appropriate to do so to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person, violations of our Terms of Service or this Policy, or as evidence in litigation in which we are involved.
+**Marketing/Analytics/Advertising Partners.** We may share personal information with third-party marketing, analytics, or advertising partners, including social media platforms and networks, who provide analytics or marketing and advertising services to us.
 
-- **Aggregate and De-Identified Information**. We may share aggregate, anonymized, or de-identified information about users with other entities for marketing, advertising, research or similar purposes.
+**Corporate Transactions.** If our Company is merged, acquired, or sold, or in the event of a transfer of some or all of our assets, we may disclose or transfer Personal Information in connection with such transaction. You will have the opportunity to opt out of any such transfer if, in our discretion, it will result in the handling of your Personal Information in a way that differs materially from this Privacy Policy.
 
-**5. OUR USE OF COOKIES AND OTHER TRACKING MECHANISMS**
+**Third Parties to Provide Services.** We may share personal information with a third party if you specifically authorize it, or it is required in order to complete a transaction, service, or activity that you initiated or requested, for example, with our payment processing providers. It includes where our Services provide visibility to other parties. Note: In such case, the collection and processing of your Personal Information will be subject to the privacy policy of such third party.
 
-We and our third party service providers use cookies, web beacons, local storage objects, pixels, session replay/screen capture, and other similar technologies to collect Technical Data as described in Section 1 above. We may combine this information with other personal information we collect from you (and our third party service providers may do so on our behalf).
+**Advertising Partners for Cross Contextual Behavioral Advertising.** We may share information with third parties in order to provide cross-contextual behavioral advertising. This may include the following categories of Personal Information: other identifying information, geolocation information, and internet and other electronic activity.
 
-**Disabling Cookies.** Most web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in the future. The Help portion of the toolbar on most browsers will tell you how to prevent your computer from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Visitors to our Site and Services who disable cookies will be able to browse certain areas of the Site, but some features may not function.
+**Individuals that View Your Profile.** Certain profile information, including but not limited to a user's name, positions, recruiting class, and teams, may be shared publicly by default and can be accessible to other users of FieldLevel Services as well as publicly available and searchable through external search engines or similar technology. This information may be disclosed to other users of the Service and may also be indexed by third-party search engines and related technology.
 
-**Third Party Analytics**. We use automated devices and applications, such as Google Analytics, to evaluate usage of our Site, and to the extent permitted, our App. We also may use other analytic means to evaluate our Services. We use these tools to help us improve our Services performance and user experiences. These entities may use cookies and other tracking technologies, such as web beacons or local storage objects (LSOs), to perform their services. To learn more about Google's privacy practices, please review the Google Privacy Policy at [https://www.google.com/policies/privacy/](https://www.google.com/policies/privacy/). You can also download the Google Analytics Opt-out Browser Add-on to prevent their data from being used by Google Analytics at [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout).
+**Compliance with Laws and Law Enforcement.** We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We may disclose Personal Information and any other information about you to government or law enforcement officials or private parties if, in our discretion, we believe it is necessary or appropriate in order to respond to legal requests (including court orders and subpoenas), to protect the safety, property, or rights of our company or of any third party, to prevent or stop any illegal, unethical, or legally actionable activity, or to comply with the law.
 
-**Do-Not-Track.** Currently, our systems do not recognize browser "do-not-track" requests. You may, however, disable certain tracking as discussed in this section (e.g., by disabling cookies); you also may opt-out of targeted advertising by following the instructions in the Third Party Ad Network section below.
+### **Cookies**
 
-**Third-Party Ad Networks.** Advertisers may also use technologies like cookies and web beacons to enable them to recognize your computer each time they send you an advertisement even when you are visiting another site. As a result, the advertiser would have the ability to deliver targeted advertisements that they believe would be of most interest to you. We do not have access to or control of the cookies that may be placed on your computer by third-party advertisers.
+We use cookies (a small text file placed on your computer to identify your computer and web browser) and may use anonymous identifiers (a random string of characters that is used for the same purposes as a cookie). We use cookies and other similar technologies to analyze use of and improve the Site and Services, and as described in the Advertising and Online Tracking section of this Privacy Policy. Most web browsers are initially set up to accept cookies. You can manage which cookies we collect, or opt out of certain cookies by clicking on the modal shown when you open this page. You can also reset your web browser to refuse all cookies or to indicate when a cookie is being sent; however, certain features of the Site or Services may not work if you delete or disable cookies. Some of our Service Providers (defined below) may use their own cookies, anonymous identifiers, or other tracking technology in connection with the services they perform on our behalf.
 
-Users may opt out of many third-party ad networks. For example, you may go to the Digital Advertising Alliance ("DAA") [Consumer Choice Page](http://www.aboutads.info/choices/) for information about opting out of interest-based advertising and their choices regarding having information used by [DAA companies](http://www.aboutads.info/participating/). You may also go to the Network Advertising Initiative ("NAI") [Consumer Opt-Out Page](http://www.networkadvertising.org/choices/) for information about opting out of interest-based advertising and their choices regarding having information used by [NAI members](http://www.networkadvertising.org/participating-networks).
+We use third-party data analytics tools to analyze how users use the App and Services. For example, we use Google Analytics on the Site and Services to analyze how users use the Site and Services. For more information about how to opt out of having your information used by Google Analytics, visit [https://tools.google.com/dlpage/gaoptout/](https://tools.google.com/dlpage/gaoptout/).
 
-**6. SECURITY OF YOUR INFORMATION**
+**_Options you make are device-specific and browser-specific._**
 
-We have implemented reasonable precautions to protect the information we collect from loss, misuse, and unauthorized access, disclosure, alteration, and destruction. Please be aware that despite our best efforts, no data security measures can guarantee security.
+**Chat Technology.** We use chat technology to help provide customer service and support, which may include connecting with a live person (live chat), the use of a virtual assistant, or other automated process (chatbot). A chatbot is a software application that mimics human conversations in text or voice interactions on our website or through our customer service hotline. It enables the communication between a human and a machine, which can take the form of messages or voice commands. The chatbot is designed to work without the assistance of a human operator. It responds to questions posed to it in natural language as if it were a real person using a combination of pre-programmed scripts and machine learning algorithms. When asked a question, the chatbot will answer using the knowledge database that is currently available to it. If the conversation introduces a concept it isn't programmed to understand, it will pass it to a human operator. If you use our chat service, whether through a live chat or a chatbot, we will collect any Personal Information you provide to us. We will also create and store a transcript of your chat interaction with us, which will be shared with and stored by our third-party service provider. We use these transcripts and the information you provide for quality control, customer service, fraud prevention, and security.
 
-You should take steps to protect against unauthorized access to your password, phone, and computer by, among other things, signing off after using a shared computer, choosing a robust password that nobody else knows or can easily guess, and keeping your log-in and password private. We are not responsible for any lost, stolen, or compromised passwords or for any activity on your account via unauthorized password activity.
+**Advertising and Online Tracking.** We may place advertisements and allow third-party companies to serve ads and collect certain information when you visit the Site and Services. These companies may use certain information (e.g., click stream information, web browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to the Site and other websites in order to provide advertisements about goods and services likely to be of interest to you. These companies typically use a cookie to collect this information. Our systems do not recognize browser "Do Not Track" signals, but several of our Service Providers who utilize these cookies on our Site enable you to opt out of targeted advertising practices. To learn more about these advertising practices or to opt out of this type of advertising, you can visit [www.networkadvertising.org](http://www.networkadvertising.org) or [www.aboutads.info/choices/](http://www.aboutads.info/choices/). We also provide you with additional tools to opt out of marketing from us. You can learn about this in the "Managing Your Information Preferences" section of this Privacy Policy.
 
-**7. ACCESS TO MY PERSONAL INFORMATION**
+Some browsers or browser extensions also allow you to tell websites not to share your information for cross-contextual behavioral advertising through the Global Privacy Control (GPC) signal. We will respond to this signal in a frictionless manner. If you configure this setting on your browser, certain features on our site may not work and you will receive less targeted advertising.
 
-You may modify personal information that you have submitted by logging into your account and updating your profile information. Please note that copies of information that you have updated, modified or deleted may remain viewable, to both users of our Services and the general public, in cached and archived pages of the Site or Application for a period of time.
+**_Options you make are device-specific and browser-specific._**
 
-**8. YOUR CHOICES**
+### **Managing Your Information Preferences**
 
-We may send periodic promotional emails to you. You may opt-out of promotional emails by following the opt-out instructions contained in the email. Please note that it may take up to 10 business days for us to process opt-out requests. If you opt-out of receiving promotional emails, we may still send you emails about your account, the Services, or any other services you have requested or received from us.
+You can review, correct, update, or change your Personal Information or opt out of receiving certain e-mails by emailing us at [support@fieldlevel.com](mailto:support@fieldlevel.com). You can also opt out of receiving marketing e-mails by following the link provided at the bottom of all marketing e-mails you receive from us. You are able to opt out of receiving marketing e-mails from us; however, you cannot opt out of receiving all e-mails from us, such as e-mails about the status of your account. If you have questions or concerns regarding this Privacy Policy, please e-mail us at that same address.
 
-**9. CHILDREN UNDER 13**
+### **Be Careful When You Share Information with Others**
 
-Our Services are not designed for children under 13. If we discover that a child under 13 has provided us with personal information, we will delete such information from our systems.
+Please be aware that whenever you share information on any public area of the Site or Services, that information may be accessed by others. In addition, please remember that when you share information in any other communications with third parties, that information may be passed along or made public by others. This means that anyone with access to such information can potentially use it for any purpose, including sending unsolicited communications.
 
-**10. THIRD PARTY LINKS**
+### **Security**
 
-Our Site and Services may contain links to third-party websites. Any access to and use of such linked websites is not governed by this Privacy Policy, but instead is governed by the privacy policies of those third party websites. We are not responsible for the information practices of such third party websites.
+We maintain reasonable physical, electronic, and procedural safeguards to protect the confidentiality and security of information transmitted to us. However, no data transmission over the Internet or other network can be guaranteed to be 100% secure. As a result, while we strive to protect information transmitted on or through the Site or Services, we cannot and do not guarantee the security of any information you transmit on or through the Site or Services, and you do so at your own risk.
 
-**11. YOUR CALIFORNIA PRIVACY RIGHTS**
+### **Links**
 
-This section of our Privacy Policy provides additional information solely for California residents who visit the Site or use our Services, as required under California law, including the California Consumer Privacy Act of 2018 ("CCPA").
+Our Site and Services may contain links to other websites or allow others to send you such links. A link to a third party's website does not mean that we endorse it or that we are affiliated with it. We do not exercise control over third-party websites. You access such third-party websites or content at your own risk. You should always read the privacy policy of a third-party website before providing any information to the website.
 
-**California Privacy Rights**
+### **Children's Privacy**
 
-If you reside in California, you have the right to: (i) request the deletion of your personal information that we collected; (ii) opt-out of the sale of your personal information, to the extent a business actually sells your personal information; (iii) request that we disclose information about our collection and use of your personal information over the past 12 months including the specific pieces and categories of personal information we collected, what personal information we collect, use, disclose, or sell about you, the categories of sources of the personal information we collected about you, our business purpose for collecting the personal information, and for each category of personal information, the categories of third parties to whom the personal information was disclosed; and (iv) be free from discriminatory adverse treatment for exercising these rights.
+The Site and Services are intended for users who are 13 years old or older. We do not knowingly collect Personal Information from children under the age of 13\. If we become aware that we have inadvertently received Personal Information from a child under the age of 13, we will delete such information from our records.
 
-Please note that these rights are subject to certain exceptions under applicable law. In order to protect your privacy and verify your request, we may require additional information from you.
+### **Processing in the United States**
 
-**Instructions:** You or your authorized agent can submit your request by sending us a message or initiating a chat with us through your account, by emailing us at the information below, or by calling us at 888-908-7124 (toll free). Account holders who log in may also submit verified requests through their account profile. In general, we will verify your request and your identity when you log-in to your account or provide your name, email address, or other profile information so that we may match it to information that we maintain about you. We may need to collect information from the requesting party to verify their identity or their status as an authorized agent, as the case may be, and may use a two-step process to confirm requests to delete. We will confirm receipt of your request within 10 days and will respond in full within 45 days (subject to an additional 45-day extension in certain circumstances). We are only obligated to respond to a request to know twice within a 12-month period. If you have questions or concerns about our privacy practices, or how to submit requests you may Contact Us through the methods listed in the "Contact Us" section.
+Please be aware that your Personal Information and communications may be transferred to and maintained on servers or databases located outside your state, province, or country. If you are located outside of the United States, please be advised that we process and store all information in the United States. The laws in the United States may not be as protective of your privacy as those in your location. By using the Site or Services, you are agreeing to the collection, use, transfer, and disclosure of your Personal Information, and communications will be governed by the applicable laws in the United States.
 
-**Information We Collect and Disclose**
+### **Notice to Residents of the European Economic Area, the United Kingdom, and Switzerland**
 
-We have collected and use the categories of personal information from California residents within the last twelve (12) months as set forth in Section 1 for our business or commercial purposes described in Section 2. Section 3 describes the categories of third parties with whom we share your personal information. We do not disclose or sell personal information to third-parties for their "business purposes" or "commercial purposes" as such terms are defined in the CCPA, nor do we offer financial incentives associated with our collection, use, or disclosure of your personal information. Our collection, use and disclosure of personal information about a California resident will vary depending upon the circumstances and nature of our interactions with you.
+The data controller for the Site and Services is:
 
-**Shine the Light.** California residents may request certain information regarding our disclosure of personally identifiable information about you to third parties' for their own direct marketing purposes. However, we do not currently disclose PII to third parties for their direct marketing purposes.
+1700 Aviara Parkway \#130994, Carlsbad, CA 92013 USA
 
-**California Minors' Rights.** California residents under the age of 18 may submit a request to remove any content or information the resident has posted to the Services. The removal request only ensures any content or information posted by a California resident under 18 will not be publicly accessible. Such requests do not ensure complete or comprehensive destruction of the content or information from the Services or from FieldLevel's servers. To submit a removal request, contact us at the information provided below.
+We use the information we collect about you to pursue the following purposes, which are necessary for the performance of the contract between us to provide you with the products or services you requested or which we consider in our legitimate interests:
 
-**12. CHANGES TO THIS PRIVACY POLICY**
+- To provide you with the Services in connection with your use of the Site;
 
-This Privacy Policy is current as of the effective date set forth above. We reserve the right to change or update this Privacy Policy, or any other of our policies or practices, at any time, and will notify users of this Site by posting such changed or updated Privacy Policy on this page. Any changes or updates will be effective immediately upon posting to this Site. Under certain circumstances, we may also elect to notify you of changes or updates to our Privacy Policy by additional means, such as posting a notice on the front page of this Site or sending you an email.
+- To offer you the features for which you provide information;
 
-**13. CONTACT US**
+- To better understand the way in which the Site and Services are working, to offer a better experience to you when using the Site and Services, to create statistics in relation to the use of the Site and Services, and our other services and offerings in general; and
 
-If you have questions about the privacy aspects of our Services or would like to make a complaint, please contact us via at [support@fieldlevel.com](mailto:support@fieldlevel.com), by phone at (888) 908-7124, or by mail at 1700 Aviara Parkway #130994, Carlsbad, CA 92013.
+- To help us diagnose technical and service problems and administer the Site and Services.
 
-© 2025 FieldLevel Inc. All rights reserved.
+Based on your voluntary consent, we also use your Personal Information, and we may combine these with third-party data to send you personalized emails, targeted advertising and push notifications tailored to you and your interests.
+
+In order to comply with our legal obligations, we may also use some of your Personal Information to detect and prevent illegal uses, abuse, spam, fraud, security incidents, and other harmful activity, or government or court orders.
+
+You may have certain rights under European Union ("EU"), United Kingdom ("UK"), or Swiss data protection legislation (collectively, "**European Privacy Laws**") with respect to your Personal Information, such as the right to:
+
+- request access to and be provided with information on the processing of your Personal Information;
+
+- request corrections of your Personal Information if such Personal Information proves inaccurate or incomplete;
+
+- request your Personal Information to be deleted (i) if it is no longer necessary for the purposes described in this Privacy Policy, (ii) should you decide to withdraw your consent where you gave it, (iii) should you object to its processing for direct marketing purposes, (iv) should you identify that it would have been unlawfully processed, (v) should we be under a legal obligation to erase it to comply with European Privacy Laws and always provided we are not under a legal obligation to keep it;
+
+- restrict the processing of your Personal Information (i) if you contest its accuracy; (ii) if the processing is unlawful and you oppose the erasure; (iii) if it is no longer needed for the purposes set out in this Privacy Policy but you require it for the establishment, exercise or defense of a legal claim, (iv) if you object to profiling;
+
+- object to the processing of your Personal Information for direct marketing purposes or to any processing which we would have based on our legitimate interest (e.g., profiling);
+
+- receive Personal Information which you provided to us in a structured, commonly used and machine-readable format and to transmit it to another provider, provided it is processed based on your consent or our contract.
+
+You also have a right to make a complaint to a data protection supervisory authority in the member state or country where you work, normally live, or where any alleged infringement of data protection laws occurred. The UK supervisory authority is the Information Commissioner's Office (ICO). You can visit their website at www.ico.org.uk. If you are in the EU, you can find your local data protection authority [here.](https://ec.europa.eu/newsroom/article29/items/612080/en) If you are in Switzerland, you can find your local data protection authority [here](https://www.edoeb.admin.ch/edoeb/en/home/deredoeb/auftragundaufgaben-DS.html).
+
+Regarding the transfer of Personal Information to countries outside the European Economic Area, UK, or Switzerland, we have entered, or will enter, into so-called "Standard Contractual Clauses" approved by the Commission of the European Union for international transfer of personal information to controllers or processors established in third countries as the case may be, when appropriate.
+
+Our principle is that we will delete your Personal Information when it is no longer necessary for the purpose for which it was collected.
+
+**Exercising Your Rights**:
+
+To exercise your rights, submit a verifiable consumer request to us by either:
+
+- Calling us toll-free at 888-908-7124; or
+
+- Email us at support@fieldlevel.com.
+
+Your verifiable consumer request must:
+
+- Provide sufficient identifying information (including full name and email address) to allow us to reasonably verify you are the person about whom we collected and retained Personal Information, and/or your authority to make such a request on behalf of the data subject, and
+
+- Describe your request with sufficient detail that allows us to properly understand, evaluate, and respond to it.
+
+Note that we will only use Personal Information provided in a verifiable consumer request to verify the requestor's identity or authority to make the request or to review and comply with the request.
+
+You may authorize someone to act as your agent and submit a request on your behalf. Due to the sensitivity of such requests, you must verify the agent's authorization before we will act. Accordingly:
+
+- You or your agent must supply proof that the agent is registered with the Secretary of State to act on your behalf; or
+
+- You or your agent must supply other written permission for a specific agent to act on your behalf; and
+
+- We will use your email address to connect directly with you to verify agent identity and authority.
+
+We cannot respond to your request or provide you with Personal Information if we cannot verify your identity or authority to make the request and confirm with a level of confidence appropriate to the sensitivity of the information that the Personal Information we have collected and retained in our systems and databases relates to you.
+
+Making a verifiable consumer request does not require you to create an account with us, but if you have an account with us, we may require you to log-in to such account in order to verify your identity or authority or to provide or delete your information.
+
+### **Right to Appeal**
+
+Residents of some jurisdictions (e.g., EU, UK, Canada) have a right to appeal our decision on a privacy rights request. If we were unable to fulfill your request, you may appeal our request by emailing us at [support@fieldlevel.com](mailto:support@fieldlevel.com) within fourteen days of our decision, and provide a detailed reason for your appeal, as well as your state of residence.
+
+### **Notice to California and Nevada Residents/Your California and Nevada Privacy Rights**
+
+We do not disclose your Personal Information with third parties for their direct marketing purposes. Further, we do not sell for monetary consideration the Personal Information of consumers for the purpose of resale to other entities. If you are a California or Nevada resident, you may be able to opt out of any future use or disclosure of your Personal Information for these purposes. To do this, email us at support@fieldlevel.com.
+
+### **Privacy Policy Changes**
+
+We may change this Privacy Policy from time to time. If we decide to change this Privacy Policy, we will inform you by posting the revised Privacy Policy on the Site. Those changes will go into effect on the "Revised" date shown in the revised Privacy Policy. By continuing to use the Site or Services, you are consenting to the revised Privacy Policy.
+
+### **Contact Us**
+
+If you have any questions or concerns, you may contact us by phone at (888) 908-7124 or by mail at: 1700 Aviara Parkway \#130994, Carlsbad, CA 92013\.
+
+Please print a copy of this privacy policy for your records, and PLEASE check the Site frequently for any changes.
