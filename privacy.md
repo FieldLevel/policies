@@ -160,7 +160,7 @@ You may have certain rights under European Union ("EU"), United Kingdom ("UK"), 
 
 You also have a right to make a complaint to a data protection supervisory authority in the member state or country where you work, normally live, or where any alleged infringement of data protection laws occurred. The UK supervisory authority is the Information Commissioner's Office (ICO). You can visit their website at www.ico.org.uk. If you are in the EU, you can find your local data protection authority [here.](https://ec.europa.eu/newsroom/article29/items/612080/en) If you are in Switzerland, you can find your local data protection authority [here](https://www.edoeb.admin.ch/edoeb/en/home/deredoeb/auftragundaufgaben-DS.html).
 
-Regarding the transfer of Personal Information to countries outside the European Economic Area, UK, or Switzerland, we have entered, or will enter, into so-called "Standard Contractual Clauses" approved by the Commission of the European Union for international transfer of personal information to controllers or processors established in third counties as the case may be, when appropriate.
+Regarding the transfer of Personal Information to countries outside the European Economic Area, UK, or Switzerland, we have entered, or will enter, into so-called "Standard Contractual Clauses" approved by the Commission of the European Union for international transfer of personal information to controllers or processors established in third countries as the case may be, when appropriate.
 
 Our principle is that we will delete your Personal Information when it is no longer necessary for the purpose for which it was collected.
 

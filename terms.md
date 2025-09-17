@@ -54,7 +54,7 @@ You are responsible for your use of the Site and Services, and for any use of th
 
 - advocate, encourage, or assist any third party in doing any of the foregoing.
 
-If you become aware of any violation of this Policy, you will immediately notify us and provide us with assistance, as requested, to stop or remedy the violation. To report any violation of this Policy, please contact us a support@fieldlevel.com.
+If you become aware of any violation of this Policy, you will immediately notify us and provide us with assistance, as requested, to stop or remedy the violation. To report any violation of this Policy, please contact us at support@fieldlevel.com.
 
 4. **Accounts; Passwords**
 
@@ -146,7 +146,7 @@ FieldLevel reserves the right, but assumes no obligation, to investigate any vio
 
 10. **Privacy**
 
-Your privacy is very important to us. Our [Privacy Policy](http://www.fieldlevel.com/policies/privacy) explains how we collect, use, protect, and when we share personal information and other data with others. You are responsible for maintaining the confidentiality of your account information, including your username and password. You are responsible for all activities that occur under your account and you agree to notify us immediately of any unauthorized access or use of your account. We are not responsible or liable for any damage or loss related to any unauthorized access or use of your account.
+Your privacy is very important to us. Our [Privacy Policy](/policies/privacy) explains how we collect, use, protect, and when we share personal information and other data with others. You are responsible for maintaining the confidentiality of your account information, including your username and password. You are responsible for all activities that occur under your account and you agree to notify us immediately of any unauthorized access or use of your account. We are not responsible or liable for any damage or loss related to any unauthorized access or use of your account.
 
 11. **Browsing Session Information**
 
